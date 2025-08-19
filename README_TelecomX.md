@@ -22,7 +22,6 @@ El análisis se desarrolló siguiendo los siguientes pasos estructurados:
 3.  **Limpieza y Preprocesamiento**:
     * Se renombraron las columnas a un formato más legible y consistente.
     * Se estandarizaron los valores categóricos (ej. `Yes`/`No` a `Sí`/`No`).
-    * Se corrigieron los tipos de datos (ej. `CargosTotales` de `object` a numérico).
     * Se manejaron los valores nulos, eliminando las filas correspondientes para garantizar la integridad del análisis.
 4.  **Análisis Exploratorio de Datos (EDA)**:
     * Se analizó la distribución general de la evasión de clientes.
